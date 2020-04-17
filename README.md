@@ -12,7 +12,7 @@ Progresso da tradução:
 
 Download e Instalação:
 
-----------
+https://steamcommunity.com/profiles/76561198795868507/myworkshopfiles/?appid=573090
 
 Coloque o arquivo 'portugues.tsv e portugues.xml  ' dentro da pasta 'languages' na pasta '\AppData\Roaming\Stormworks\data\languages'.
 
