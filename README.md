@@ -1,6 +1,6 @@
 Sobre:
 
-Essees arquivos são uma tradução para o jogo Stormworks Build and Rescue.
+Estes arquivos são uma tradução para o jogo Stormworks Build and Rescue.
 
 Tradução no steam workshop:
 
